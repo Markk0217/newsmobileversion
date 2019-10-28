@@ -1,1 +1,1 @@
-# newsmobileversion
+# newsmobile
